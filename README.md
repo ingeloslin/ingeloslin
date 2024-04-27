@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ingeloslin
-- 👀 I’m interested in programming, data science, layout
-- 🌱 I’m currently learning python, sql, html/css/js
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning kotlin, android
 - 📫 How to reach me
